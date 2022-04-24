@@ -1,0 +1,88 @@
+#section-intro{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background: url(./resources/stacked-waves-2.svg);
+    /* background: url(./resources/Colored-Shapes.svg); */
+    background-size: cover;
+}
+
+#sxio {
+    display: flex;
+    gap: 2vw;
+    /* background: chocolate; */
+    width: -moz-fit-content;
+    width: fit-content;
+    padding: 2vh 2vw;
+    position: fixed;
+    top: 1%;
+    left: 1%;
+    z-index: 1000;
+}
+
+.mng {
+    color: white;
+    font-weight: bold;
+    border: 2px white dashed;
+    padding: 1vh 1vw;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.section{
+
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    background-size: cover;
+    
+}
+
+#boy-svg{
+    background: url(./resources/boy-svg.svg);
+    background-size: cover;
+    height: 20vh;
+    position: absolute;
+    /* right: 340px; */
+    left: 50%;
+    top: 40%;
+    aspect-ratio: 1/1;
+    transform: translate(-50%);
+}
+
+#intro-cont {
+    display: flex;
+    flex-flow: column;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    gap: 2vh;
+    transform: translate(-50% ,-50%);
+    width: 100%;
+}
+#intro-name {
+    color: #b7efb6;
+    font-weight: bolder;
+    font-size: xxx-large;
+}
+
+#intro-fs {
+    color: #3fdb3c;
+    font-weight: bolder;
+    font-size: xxx-large;
+    margin-top: 30vh;
+}
+#intro-loc{
+    font-size: xx-large;
+    font-weight: bold;
+}
+#int-hi {
+    font-size: xxx-large;
+    font-weight: bold;
+}
+
+#int-im {
+    font-size: xx-large;
+    color: cornsilk;
+    font-weight: bold;
+}
