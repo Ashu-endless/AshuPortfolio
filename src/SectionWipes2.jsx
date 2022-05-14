@@ -3,7 +3,8 @@ import styled from "styled-components";
 import { Controller, Scene } from "react-scrollmagic";
 import { Tween, Timeline } from "react-gsap";
 import Intro from "./sections/Intro";
-import MyWorks from "./sections/Myworks";
+import MyWorks from "./sections/myworks/Myworks";
+import ContactMe from "./sections/ContactMe";
 const SectionWipes2Styled = styled.div`
   overflow: hidden;
   #pinContainer {
@@ -54,6 +55,7 @@ const SectionWipes2 = () => (
           <Tween from={{ x: "100%" }} to={{ x: "0%" }}>
             <section className="panel green">
               <span>Panel 3 </span>
+              {/* <ContactMe/> */}
             </section>
           </Tween>
           <Tween from={{ y: "-100%" }} to={{ y: "0%" }}>

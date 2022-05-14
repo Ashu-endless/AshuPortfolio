@@ -24,3 +24,7 @@ code {
   height: 7px;
   width: 7px;
 }
+
+p{
+  margin: 0;
+}

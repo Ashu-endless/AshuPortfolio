@@ -52,13 +52,19 @@ function Intro() {
         <div id='intro-cont' > 
          <div> <span id='int-hi' >Hi</span> <span id='int-im' >I'm</span> </div>
             <p id='intro-name' >Ashutoh Yadav</p>
+          {/* <div id='boy-svg' ></div> */}
+
+          <div id='me_blob' >
+            <div id='me' ></div>
+          </div>
+          
+
             <span id='intro-fs' >FullStack Developer</span>
             <div id='intro-loc' >
             <span>Based in </span> <span>Delhi</span>  <span>India</span>
             </div>
          </div>
 
-    <div id='boy-svg' ></div>
 
     <div id='sxio' >
       <div className='mng' onClick={ShowSection.home} >Home</div>
