@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/AshuPortfolio/static/css/main.b7f1f738.css",
+    "main.css": "/AshuPortfolio/static/css/main.8af54882.css",
     "main.js": "/AshuPortfolio/static/js/main.6e9a6947.js",
     "static/js/787.2db47da6.chunk.js": "/AshuPortfolio/static/js/787.2db47da6.chunk.js",
     "static/media/me.jpg": "/AshuPortfolio/static/media/me.c63603e16025290377d0.jpg",
+    "static/media/Hexagon.svg": "/AshuPortfolio/static/media/Hexagon.95b4628510f886738f49.svg",
     "static/media/boy-svg.svg": "/AshuPortfolio/static/media/boy-svg.ff149c7c070050b58a28.svg",
+    "static/media/Abstract Paper.svg": "/AshuPortfolio/static/media/Abstract Paper.5771bfb6b0e3ff28da01.svg",
     "static/media/blob.svg": "/AshuPortfolio/static/media/blob.9620451dd9a03e17eea5.svg",
     "static/media/down-arrow.svg": "/AshuPortfolio/static/media/down-arrow.6154b0bccb19865bddad.svg",
     "index.html": "/AshuPortfolio/index.html",
-    "main.b7f1f738.css.map": "/AshuPortfolio/static/css/main.b7f1f738.css.map",
+    "main.8af54882.css.map": "/AshuPortfolio/static/css/main.8af54882.css.map",
     "main.6e9a6947.js.map": "/AshuPortfolio/static/js/main.6e9a6947.js.map",
     "787.2db47da6.chunk.js.map": "/AshuPortfolio/static/js/787.2db47da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7f1f738.css",
+    "static/css/main.8af54882.css",
     "static/js/main.6e9a6947.js"
   ]
 }
