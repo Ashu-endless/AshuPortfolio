@@ -7,32 +7,9 @@
     background-size: cover;
 }
 
-#sxio {
-    display: grid;
-    grid-auto-flow: column;
-    /* gap: 2vw; */
-    border: 1px blue solid;
-    border-radius: 1rem;
-    /* background: chocolate; */
-    width: -moz-fit-content;
-    width: fit-content;
-    /* padding: 2vh 2vw; */
-    position: fixed;
-    top: 1%;
-    left: 1%;
-    z-index: 1000;
-    background: linear-gradient(to right, #191e2b 4%, rgb(15 34 60) 45%, #fff  14%, white 100%)
-}
 
-.mng {
-    color: #8f18fb;
-    font-weight: bold;
-    /* border: 2px white dashed; */
-    /* padding: 1vh 1vw; */
-    cursor: pointer;
-    padding: 1vh;
-    /* border-radius: 10px; */
-}
+
+
 
 .section{
 

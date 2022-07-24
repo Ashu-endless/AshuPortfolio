@@ -58,11 +58,7 @@ const SectionWipes2 = () => (
               {/* <ContactMe/> */}
             </section>
           </Tween>
-          <Tween from={{ y: "-100%" }} to={{ y: "0%" }}>
-            <section className="panel bordeaux">
-              <span>Panel 4 </span>
-            </section>
-          </Tween>
+          
         </Timeline>
       </Scene>
     </Controller>
